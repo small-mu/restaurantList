@@ -14,6 +14,8 @@ cd restaurantList
 ```
 4. 安裝 nodemon 套件
 ```
+在 Terminal 輸入 nodemon app.js 指令
+```
 5. 啟動伺服器，執行 app.js 檔案
 ```
 nodemon app.js
